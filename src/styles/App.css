@@ -16,6 +16,16 @@
     font-size: 2rem;
 }
 
+.app-title-icon {
+    width: 30px;
+    height: 30px;
+    margin: auto 10px;
+}
+
+.app-title-icon path {
+    fill: #4a90d9;
+}
+
 /* ============================================
    메모 입력 폼
    ============================================ */

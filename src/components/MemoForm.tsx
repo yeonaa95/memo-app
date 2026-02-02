@@ -22,7 +22,7 @@ function MemoForm({ onAddMemo }: MemoFormProps) {
             <input
                 type="text"
                 className="memo-input"
-                placeholder="메모를 입력하세요..."
+                placeholder="메모를 입력하세요."
                 value={inputValue}
                 onChange={handleChange}
             />
